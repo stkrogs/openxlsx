@@ -1,7 +1,7 @@
 Package: openxlsx
 Type: Package
 Title: Read, Write and Edit XLSX Files - with a twist
-Version: 4.0.29a
+Version: 4.0.290
 Date: 2017-08-13
 Authors@R: c(
     person("Alexander", "Walker",
