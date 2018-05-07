@@ -1,6 +1,6 @@
 Package: openxlsx
 Type: Package
-Title: Read, Write and Edit XLSX Files
+Title: Read, Write and Edit XLSX Files - with a twist
 Version: 4.0.29
 Date: 2017-08-13
 Authors@R: c(
